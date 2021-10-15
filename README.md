@@ -1,34 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# B◎NB◎N
 
-## Getting Started
+## OUR GIFT TO THE COMMUNITY
 
-First, run the development server:
+![GIFT](img/000_our_gift_to_the_community_bonbon.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+### List your **Candy-Machine** for FREE at [B◎NB◎N](https://www.bonbon.uno/)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### and / or
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+### Create your own **Candy-Store** with multiple Candy-Machine(s)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+![LIST_4_FREE](img/001_list_candy_machine_create_candy_store.png)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### We have a unique scenario, where we had to build, deploy and host multiple new candy-machine(s) every week for one of our tribes, [Alt Saints](https://metasafari.world/project-1/).
 
-## Learn More
+#### After extensive research and talking to multiple builders in the ecosystem, we were led on this path to building our own platform, [Wildlife Park](https://www.metasafari.uno/).
 
-To learn more about Next.js, take a look at the following resources:
+![WILDLIFE_PARK](img/002_wildlife_park.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Today, we are delighted to announce that we are open sourcing the codebase, UI design files to our beloved community.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Feel free to use these resources for your project. And if you're so inclined to create your own candy-machine, and/or candy-store ...we are here to help, share our experiences, so as to help you successfully launch your idea.
 
-## Deploy on Vercel
+### To kick things of, we plan to create, deploy and host a few candy-machines filled with some really cool NFTs for you to **MINT for FREE**. Yes you heard that right, you cover the network fee and we priced these goodies at ` 0 s◎l` as a thank you.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Our elves are busy building these candy-machines and we shall deploy them progressively in coming weeks. Keep an eye out in our socials, so you can get them at [B◎NB◎N](https://www.bonbon.uno/) as soon as they are deployed to `mainnet`.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![ROOS_BONBON](img/003_roos_bonbon.png)
+
+### This is just the beginning of many delightful opportunities our community members shall experience in coming months and years.
+
+![YOUR_JOURNEY](img/004_your_nft_journey.png)
+
+---
+
+# LET's PLAY
+
+## [DISCORD](metasafari) | [GITHUB](https://github.com/metasafari/bon-bon) | [TWITTER](https://twitter.com/metasafari) | [INSTAGRAM](https://www.instagram.com/meta.safari/) | [WEB](https://metasafari.world/)
+
+---
