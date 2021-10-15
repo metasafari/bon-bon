@@ -7,11 +7,11 @@
             "main_title": "LaRu",
             "image_url": "img/001_LaRu.png",
             "selected" : false,
-            "Candy_Machine_Config" : "SgX7jPdvsYJWD72MBHBzdh4wdtNFcXREiEnEhCWdz66",
-            "Candy_Machine_Id" : "2aV6W9fPsvMuHaaUrBriKZvALUy1EuKrgUHFc8VFVaKE",
-            "Solana_RPC_Host" : "https://explorer-api.devnet.solana.com",
-            "Treasury_Address"  : "3Ka4vSBBLZ4DZ2p2gRdgUMTRBKvogUEbsZtZMU4QNXXF",
-            "Solana_Network" : "devnet",
+            "Candy_Machine_Config" : "6NFvxzKxg9vpNM7aSdhakw5gMWx9fJqaMosiPyc7vUJm",
+            "Candy_Machine_Id" : "3m4BsrguFScdjbfNmeVbmGm6Cwqzgn4i5CtuLyGSFoX6",
+            "Solana_RPC_Host" : "ttps://api.mainnet-beta.solana.com",
+            "Treasury_Address"  : "B4mo3s9cTKqrChxh39br8Vm6oxauaWGzUm4G5MZA6nbA",
+            "Solana_Network" : "mainnet-beta",
             "Items_Remaining" : null
         }
     ]
