@@ -16,10 +16,10 @@ function FooterNav() {
             <div className="footer-container">
          
             <Link   href="https://metasafari.world/"><a className="active" target="_blank">Metasafari</a></Link>
-            <Link   href="https://metasafari.world/"><a className="active" target="_blank">Wildlife Park</a></Link>
+            <Link   href="https://www.metasafari.uno/"><a className="active" target="_blank">Wildlife Park</a></Link>
             <Link   href="https://solana.com/"><a className="active" target="_blank">Solana</a></Link>
             <Link   href="https://metaplex.com/"><a className="active" target="_blank">Metaplex</a></Link>
-            <Link   href="https://hackmd.io/@levicook/HJcDneEWF" target="_blank"><a className="active">Candy Machine</a></Link>
+            <Link   href="https://github.com/metaplex-foundation/metaplex/tree/master/js/packages/cli" target="_blank"><a className="active">Candy Machine</a></Link>
             <Link   href="https://phantom.app/"><a className="active" target="_blank">Phantom</a></Link>
 
             </div>

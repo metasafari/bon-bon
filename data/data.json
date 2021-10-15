@@ -3,14 +3,14 @@
     [
         {
             "id": 1,
-            "title": "DROP 0",
-            "main_title": "001 OneSie",
-            "image_url": "img/001_roo_bonbon.png",
+            "title": "DROP 1",
+            "main_title": "LaRu",
+            "image_url": "img/001_LaRu.png",
             "selected" : false,
-            "Candy_Machine_Config" : "2kUozNGY4k5CH89SxZPxo3uY6zpWbpmphgy4yW6Ca6t2",
-            "Candy_Machine_Id" : "3gs4K1Y2mPWAQsj8ikhgXJEE44Ftq1trQkmBhXN85mgN",
+            "Candy_Machine_Config" : "SgX7jPdvsYJWD72MBHBzdh4wdtNFcXREiEnEhCWdz66",
+            "Candy_Machine_Id" : "2aV6W9fPsvMuHaaUrBriKZvALUy1EuKrgUHFc8VFVaKE",
             "Solana_RPC_Host" : "https://explorer-api.devnet.solana.com",
-            "Treasury_Address"  : "5FpD5TT1morBy1LepnhiYMUguar8u6xmUU9TtJQircY5",
+            "Treasury_Address"  : "3Ka4vSBBLZ4DZ2p2gRdgUMTRBKvogUEbsZtZMU4QNXXF",
             "Solana_Network" : "devnet",
             "Items_Remaining" : null
         }
