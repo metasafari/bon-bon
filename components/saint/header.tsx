@@ -12,7 +12,7 @@ function Header() {
         <header className="header">
             <div className="header-container">
                 <Link href="/">
-                    <img  src="/metasafari_logo.svg" alt="Logo" />
+                    <img  src="/bonbon_logo.svg" alt="Logo" />
                 </Link>
                 <HeaderNav isActive={menuActive} />
                 <div className="hamburger" onClick={menuToggle}>

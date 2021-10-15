@@ -4,8 +4,12 @@ import Link from 'next/link'
 function FooterNav() {
     return (
         <nav className="footer-nav">
-            <div className="footer-container">
-                <h3> <Link   href="/"><a className="active">bonbon</a></Link> is lovingly powered by:</h3>
+            <div className="footerlogo-container">
+            <Link href="/">
+                    <img  src="/bonbon_footer.svg" alt="Logo" />
+                </Link>
+                </div>   <div className="footer-container">
+              <h3> <Link   href="/"><a className="active">bonbon</a></Link> is lovingly powered by:</h3>
             </div>
             <div className="footer-container">
          

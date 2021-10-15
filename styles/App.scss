@@ -125,13 +125,22 @@ img {
           
         }
         h3{              
-            padding: 100px 500px 0px;         
+            padding: 5px 500px 0px;         
             color: #19E58F;
             font-size: 26px;
             line-height: 37px; 
             text-align: center;           
         }
         .footer-container {
+            justify-content: space-between;
+            align-items: stretch;
+            @media(max-width: 1024px) {
+                flex-wrap: wrap;
+            }
+        }
+        .footerlogo-container {
+            padding-top: 32px;
+            text-align: center;
             justify-content: space-between;
             align-items: stretch;
             @media(max-width: 1024px) {
@@ -146,7 +155,7 @@ img {
         margin: auto;
     }
     &-bottom {
-        padding: 40px 0 45px;
+        padding: 20px 0 25px;
         background-color: #E5E5E5;
         color: #222222;
         .footer-container {
