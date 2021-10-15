@@ -178,11 +178,11 @@ function BonBonDrops() {
                 const bonbonDataCopy = [...bonbonData];
                 const objIndex = bonbonData.findIndex((obj => obj.id === nftConfig.id));
                 bonbonDataCopy[objIndex].Items_Remaining = itemsRemaining;
-		if(itemsRemaining<=0){                 
+		        if(itemsRemaining<=0){                 
                     
                     const newSoldOut = soldOuts
-                    if (!newSoldOut.find(o => o===pastDataCopy[objIndex].id))
-                    newSoldOut.push(pastDataCopy[objIndex].id)
+                    if (!newSoldOut.find(o => o===bonbonDataCopy[objIndex].id))
+                    newSoldOut.push(bonbonDataCopy[objIndex].id)
                     setSoldOuts(newSoldOut)                    
                 }
                 setBonBonData(bonbonDataCopy)
