@@ -9,7 +9,7 @@
             "selected" : false,
             "Candy_Machine_Config" : "6NFvxzKxg9vpNM7aSdhakw5gMWx9fJqaMosiPyc7vUJm",
             "Candy_Machine_Id" : "3m4BsrguFScdjbfNmeVbmGm6Cwqzgn4i5CtuLyGSFoX6",
-            "Solana_RPC_Host" : "ttps://api.mainnet-beta.solana.com",
+            "Solana_RPC_Host" : "https://api.mainnet-beta.solana.com",
             "Treasury_Address"  : "B4mo3s9cTKqrChxh39br8Vm6oxauaWGzUm4G5MZA6nbA",
             "Solana_Network" : "mainnet-beta",
             "Items_Remaining" : null
