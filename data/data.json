@@ -1,0 +1,18 @@
+{
+    "bonbonnftdrops" :
+    [
+        {
+            "id": 1,
+            "title": "DROP 0",
+            "main_title": "001 OneSie",
+            "image_url": "img/001_roo_bonbon.png",
+            "selected" : false,
+            "Candy_Machine_Config" : "2kUozNGY4k5CH89SxZPxo3uY6zpWbpmphgy4yW6Ca6t2",
+            "Candy_Machine_Id" : "3gs4K1Y2mPWAQsj8ikhgXJEE44Ftq1trQkmBhXN85mgN",
+            "Solana_RPC_Host" : "https://explorer-api.devnet.solana.com",
+            "Treasury_Address"  : "5FpD5TT1morBy1LepnhiYMUguar8u6xmUU9TtJQircY5",
+            "Solana_Network" : "devnet",
+            "Items_Remaining" : null
+        }
+    ]
+}
