@@ -115,7 +115,6 @@ img {
                 font-size: 20px;
                 line-height: 1.5;
                 flex: 0 0 50%;
-                border: 1px solid #E1E1E1;
                 &.ext-links {
                     img {
                         max-width: 80px;
@@ -124,10 +123,9 @@ img {
             }
           
         }
-        h3{              
-            padding: 5px 500px 0px;         
+        h3 a{              
             color: #19E58F;
-            font-size: 26px;
+            font-size: 30px;
             line-height: 37px; 
             text-align: center;           
         }
@@ -137,6 +135,11 @@ img {
             @media(max-width: 1024px) {
                 flex-wrap: wrap;
             }
+        }
+        .footertext-container {color: #19E58F;
+            font-size: 26px;
+            line-height: 37px; 
+            text-align: center;
         }
         .footerlogo-container {
             padding-top: 32px;
