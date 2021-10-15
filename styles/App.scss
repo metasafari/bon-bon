@@ -101,7 +101,7 @@ img {
 .footer {
     &-nav {
         background-color: #222222;
-       
+        font-family: Lexia;
         a {
             color: #19E58F;
             text-decoration: underline;
@@ -194,6 +194,9 @@ img {
 }
 .nft-list{
     padding:56px 115px 30px !important;
+    @media(max-width: 1024px) {
+        padding: 56px 25px 30px !important
+    }
     button {
         margin-top:20px;
         all: unset;
@@ -230,12 +233,17 @@ img {
 }
 .nft-item{
     height:520px;
-    width: 400px;
+    @media(max-width: 1024px) {
+       height:450px;
+    }
     background: #E5E5E5;
    
 }
 .nft-item-selected{
      background: #52e5b5;
+     @media(max-width: 1024px) {
+        height:450px;
+     }
 }
 .nftImage{
     padding-bottom: 20px;
@@ -246,6 +254,7 @@ img {
     // background: #52e5b5;
 }
 .past-title{
+    margin: 0 0 0.7rem;
     height: 100px;
 padding: 20px 20px 2px;
 font-family: Lexia;
